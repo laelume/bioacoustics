@@ -1,0 +1,2 @@
+#One-minute segments of audio recorded using Audiomoths at 48kHz 16bits. 
+#Duration was over a ~24-hour period from 2024-10-02 17:00:00 until 2024-10-03 16:30:00
