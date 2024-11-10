@@ -1,0 +1,1 @@
+# This is the codebase description for Team Fwafwa's ecoacoustics survey of altitude as a predictor for population variability and birdcall feature variation in the Risoux Forest of of Haut-Jura, France. 
