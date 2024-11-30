@@ -1,1 +1,0 @@
-This directory contains graphs, charts, and images generated for interpreting the results of processing audio from bird calls of Haut-Jura

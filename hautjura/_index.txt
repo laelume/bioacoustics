@@ -1,2 +1,0 @@
-# This is the codebase description for Team Fwafwa's ecoacoustics survey of altitude as a predictor for audio feature variation in bird populations of the mountains of Haut-Jura, France. 
-
